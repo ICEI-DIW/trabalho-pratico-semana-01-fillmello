@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Filipe Melo   
+Matricula: 885454
 
 ## Tela de inspeção com navegador
 
+![alt text](resultadoDEVTOOLS-1.jpeg)
 
 ## Tela de projeto no Replit
 
+![alt text](REPLITwebsite-1.png)
